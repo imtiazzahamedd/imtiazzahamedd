@@ -49,7 +49,3 @@
 **I started from Electrical Engineering but found myself deeply interested in building things on the web.**
 
 ---
-
-<div align="center">
-  <sub>Built with ✨ by Antigravity</sub>
-</div>
