@@ -1,51 +1,58 @@
-# Imtiaz Ahamed | Web Designer ⚡
+# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/assets/working.gif" width="30"> Hi, I'm Imtiaz Ahamed
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner" />
+  <img src="banner.png" width="100%" alt="Banner" style="border-radius: 15px;" />
+  
+  <br/>
 
-### Electrical Engineering student and passionate Web Designer, currently progressing toward becoming a Web Developer.
+  ## ⚡ Web Designer & Aspiring Developer
+  **Electrical Engineering Student | Crafting Responsive Web Experiences**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imtiazzahamedd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtiazzahamedd@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imtiaz.ahamed070325)
-
+  <p align="center">
+    <a href="https://github.com/imtiazzahamedd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:imtiazzahamedd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.facebook.com/imtiaz.ahamed070325"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 🔭 I’m currently working on
-- 🚀 **Building responsive and user-focused web projects**  
-- 🛠️ **Strengthening backend fundamentals and full-stack concepts**  
-
-### 🌱 I’m currently learning
-- 📚 **Advanced JavaScript**  
-- 🏗️ **Backend development concepts**  
-- ✨ **Writing more optimized and structured code**  
-
-### 👯 I’m looking to collaborate on
-- 🤝 **Frontend or WordPress-based projects**  
-- 🌱 **Beginner-friendly open source contributions**  
-
-### 🤔 I’m looking for help with
-- 🏗️ **Advanced backend architecture**  
-- 🚢 **Writing scalable and production-ready applications**  
-
-### 💬 Ask me about
-- 🎨 **HTML & CSS**  
-- 🛠️ **WordPress customization**  
-- 💻 **C, C++ and DSA fundamentals**  
+### � About Me
+- � **Working on:** High-performance, user-focused web applications.
+- 🌱 **Learning:** Deep diving into **Backend Architecture** and **Advanced Node.js**.
+- 🛠️ **Experience:** Electrical Engineering background gives me a unique problem-solving edge in tech.
+- ⚡ **Fun Fact:** I transitioned from circuits to code because I love building things people can interact with.
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiazzahamedd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazzahamedd&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,wordpress,cpp,c,git,github,vscode,figma" />
 </div>
 
 ---
 
-### ⚡ Fun fact
-**I started from Electrical Engineering but found myself deeply interested in building things on the web.**
+### � GitHub Analytics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=imtiazzahamedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="170px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazzahamedd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8" height="170px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazzahamedd&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
+</div>
 
 ---
+
+### 📬 Let's Connect
+I'm always open to collaborating on **Frontend**, **WordPress**, or **Open Source** projects. Feel free to reach out!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</div>
+
