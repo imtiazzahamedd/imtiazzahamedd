@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/assets/working.gif" width="30"> Hi, I'm Imtiaz Ahamed
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner" style="border-radius: 15px;" />
+  <img src="banner_thin.png" width="100%" alt="Banner" style="border-radius: 10px;" />
   
   <br/>
 
@@ -37,10 +37,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=imtiazzahamedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="170px" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imtiazzahamedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="170px" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazzahamedd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8" height="170px" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazzahamedd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8" height="170px" alt="Top Languages" />
       </td>
     </tr>
   </table>
