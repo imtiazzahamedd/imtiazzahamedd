@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/assets/working.gif" width="30"> Hi, I'm Imtiaz Ahamed
 
 <div align="center">
-  <img src="banner_thin.png" width="100%" alt="Banner" style="border-radius: 10px;" />
+  <img src="banner.png" width="100%" alt="Banner" style="border-radius: 10px;" />
   
   <br/>
 
